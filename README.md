@@ -1,6 +1,7 @@
 # Alfred OTP
 
 Alfred workflow to generate OTP secured in keychain.
+In addition to that, Alfred will lookup all available tokens to simplify the search.
 
 ## How to
 
@@ -17,4 +18,5 @@ Alfred workflow to generate OTP secured in keychain.
 
 ## Credits
 
-Inspired by https://github.com/MyDeity/OTP-Generator.
+It's @caalberts work (original fork).
+I only changed the live output to query all available tokens.
